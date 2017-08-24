@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eb219d5f-fde5-42af-95ae-d6158e5a686a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/settings.py" afterPath="$PROJECT_DIR$/untitled/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -314,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1503582915103</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deneme4">
+      <created>1503583435014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1503583435014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -384,7 +390,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deneme2" />
     <MESSAGE value="deneme3" />
-    <option name="LAST_COMMIT_MESSAGE" value="deneme3" />
+    <MESSAGE value="deneme4" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
